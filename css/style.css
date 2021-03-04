@@ -1,0 +1,44 @@
+
+/*b class*/
+.fl-left{
+	float: left;
+}
+.fl-right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+.title1{
+	width: 498px;
+}
+/*section1*/
+.conteiner{
+	width: 1088px;
+	margin: 30px auto;
+}
+.image1{
+	width: 168px;
+	float: left;
+}
+.paragraf1{
+	width: 260px;
+}
+.left-block{
+	background-color: #F8F8F8; 
+	width: 536px;
+	float: left;
+	margin-right: 16px;
+}
+.right-block{
+	background-color: #F8F8F8;
+	width:  536px;
+	float: left;
+}
+.upper{
+	margin-top: 50px;
+	margin-bottom: 16px;
+}
+.description{
+	margin-left: 16px;
+}
