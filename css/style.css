@@ -12,11 +12,18 @@
 .title1{
 	width: 498px;
 }
-/*section1*/
+.title2{
+	width: 465px;
+}
 .conteiner{
 	width: 1088px;
-	margin: 30px auto;
+	margin: 0px auto;
 }
+.text1{
+	text-align: center;
+	margin-bottom: 87px;
+}
+/*section1*/
 .image1{
 	width: 168px;
 	float: left;
@@ -40,5 +47,54 @@
 	margin-bottom: 16px;
 }
 .description{
+	margin-top: 37px;
 	margin-left: 16px;
+}
+/*section2*/
+.box-2{
+	margin-left: 16px;
+	margin-right: 16px;
+}
+.img-box{
+	width: 352px;
+}
+.bg{
+	background-color: #F8F8F8;
+}
+.title{
+	margin-top: 82px;
+}
+.title3{
+	margin-top: 23px;
+}
+.sec-2{
+	margin-top: 90px;
+}
+.paragraf2{
+	width: 260px;
+	padding-bottom: 23px;
+	padding-left: 46px;
+}
+h3{
+	padding-bottom: 12px;
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins', sans-serif;
+}
+h1{
+	
+	font-size: 42px;
+	color: #000000;
+	font-family: 'Poppins', sans-serif;
+}
+h2{
+	padding-bottom: 20px;
+	font-size: 18px;
+	color: #000000;
+	font-family: 'Poppins', sans-serif;
+}
+p{
+	font-size: 14px;
+	color: #B1B1B1;
+	font-family: 'Poppins', sans-serif;
 }
